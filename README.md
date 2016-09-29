@@ -1,6 +1,6 @@
 # DePi-PROD
 
-DePi is a Delivery Pipeline as a Service framework.
+DePi is a Delivery Pipeline as a Service automation framework.
 
 Contact me for a subscription plan.
 

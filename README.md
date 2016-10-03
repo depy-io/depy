@@ -2,6 +2,8 @@
 
 DePi is a Delivery Pipeline as a Service automation framework.
 
+![alt tag](https://github.com/lioramilbaum/DePi-PROD/blob/devel/images/cloudcraft%20-%20DePi.png)
+
 # Authors
 
 DePi was created by Liora Milbaum (liora/lmb/co/il).

@@ -1,3 +1,10 @@
+# 0.0.6
+Option to choose between hosted chef and private chef #38
+Clean() doesn't delete spotinst groups #25
+Use lower case in all values #23
+Central configuration file #11
+Chef/UCD - Bump to version 6.2.2 #36
+
 # 0.0.5
 
 Using spot instances via SpotInst service

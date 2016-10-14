@@ -1,3 +1,7 @@
+# 0.0.5
+
+Using spot instances via SpotInst service
+
 # 0.0.4
 Chef/Bump and lock jenkins cookbook to 3.0.0
 Chef/Lock compat_resource cookbook to 12.14.7

@@ -2,6 +2,18 @@
 
 This file is used to list changes made in each version of the depi framework.
 
+## 0.0.7
+
+Rename git repo names #12
+
+Merge backend git repos #13
+
+jenkins cookbook dependency is not locked for all cookbooks #42
+
+Bump Jenkins Chef recipe to 4.1.0 #50
+
+Add licensing #48
+
 ## 0.0.6
 
 Option to choose between hosted chef and private chef #38

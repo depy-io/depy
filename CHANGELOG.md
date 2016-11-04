@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of the depi framework.
 
+## 0.0.8
+
+Consolidated users files in conf/users.json
+
 ## 0.0.7
 
 Rename git repo names #12

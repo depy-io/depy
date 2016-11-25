@@ -16,6 +16,5 @@ Account
 
 * Store your API token in ~/.spotinst file
 
-# Chef.io
+# [CHEF](https://github.com/lioramilbaum/depi-fe/develop/CHEF.md "Title")
 
-Subscription

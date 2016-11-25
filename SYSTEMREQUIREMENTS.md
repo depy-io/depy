@@ -17,4 +17,3 @@ Account
 * Store your API token in ~/.spotinst file
 
 # [CHEF](https://github.com/lioramilbaum/depi-fe/blob/develop/CHEF.md "Title")
-

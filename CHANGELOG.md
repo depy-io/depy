@@ -2,6 +2,26 @@
 
 This file is used to list changes made in each version of the depi framework.
 
+## 0.0.9 
+
+Major code refactoring:
+
+* central configuration system (depi/conf)
+
+* Dynamically management AWS security groups
+
+* Two systems: chef and depi. Each launched separately.
+
+* spotinst api token central function
+
+* Applied function naming conventions according to file name
+
+Bumps:
+
+* nodejs chef cookbook - 3.0.0
+
+* Ansible - 2.2.0
+
 ## 0.0.8
 
 Consolidated users files in conf/users.json

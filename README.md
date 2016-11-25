@@ -10,6 +10,6 @@ depi is a Delivery Pipeline as a Service automation framework.
 
 # Authors
 
-depi was created by Liora Milbaum (liora/lmb/co/il).
+depi is maintained by Liora Milbaum (liora at lmb dot co dot il).
 
 depi is sponsored by L.M.B.-Consulting Ltd.

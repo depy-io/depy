@@ -1,21 +1,23 @@
-# configure your company settings:
+## Install python 2.7
 
-cd <depi home>/conf
+## configure your company settings:
 
-cp -R company <your company name>
+1. cd <depi home>/conf
 
-cd <your company name>
+2. cp -R company <your company name>
 
-Fill in the values in conf.json file
+3. cd <your company name>
 
-# Spotinst settings
+4. Fill in the values in conf.json file
 
-place in your home directory file named - '.spotinst'
+## Spotinst settings
 
-store your Spotinst API Token in the file
+1. place in your home directory file named - '.spotinst'
 
-# Running depi:
+2. store your Spotinst API Token in the file
 
-cd <depi home>
+## Running depi:
 
-python main.py <your company name>
+1. cd <depi home>
+
+2. python main.py <chef|depi> <your company name>

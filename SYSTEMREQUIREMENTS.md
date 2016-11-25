@@ -6,11 +6,11 @@ Account
 
 # SpotInt
 
-Activated account
+* Activated account
 
-Generated API Token
+* Generated API Token
 
-Set an environment variable SPOTINST_TOKEN with your API Token
+* Store your API token in ~/.spotinst file
 
 # Chef.io
 

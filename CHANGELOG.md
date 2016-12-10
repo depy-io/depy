@@ -1,6 +1,30 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+## 0.0.11
+
+ * Jenkins instances infra switched to Ubuntu 16.04 due to dependency created by ansible role - kobanyan.jenkins-jnlp-slave
+ * Jenkins instances - Bump Java version to 8 according to Jenkins system requirements recommendations
+ * Bump geerlingguy.java ansible role to 1.7.1
+ * Ansible - Adding support for private dns names via AWS route53 service
+ * Route53 - generic attribute values. Moved chef attributes setting to conf files. Fixed build failure due to missing values.
+ * Jenkins/Ansible - Can't login with admin user. user not created during deployment.
+ * Jenkins/Chef - Version conf attribute is not picked up
+ * runit/chef - Bumped cookbook 3.0.3
+ * Jenkins/chef - port forwarding 80->8080
+ * Jenkins - configurable http port. Adding http_port conf attribute.
+ * Jenkins - wrong default builder credentials
+ * Jenkins/Chef - node component recipe didn't run
+ * Jenkins/Chef - cookbook refactoring
+ * Build breaks when no AWS security group to delete
+ * RTC-git/Chef - Fixing the integration
+ * CLM/Chef - No space left on device
+ * Release process deleted conf/<company> files
+ * AWS Security topology improvements - switched to a more generic topology without loosing security level
+ * AWS Security - Delete security group failed due to resource dependency. Build failure.
+ * Conf files/Ansible - Do not override files during build
+ * Jenkins/Chef - Adding node component
+ * Jenkins/Chef - Bump jenkins cookbook 4.1.2
 
 ## 0.0.9 
 

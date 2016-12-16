@@ -1,6 +1,17 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+
+## 0.0.12
+
+ * Jenkins - bump version 2.36
+ * IBM Installation Manager - bump version 1.86
+ * Jenkins - switched to Ubuntu 16.04
+ * IBM CLM - switched to Ubuntu 16.04
+ * IBM CLM - bump version 6.0.3
+ * Spotinst - fixed a bug instance launched as ondemand instead of spots
+ * compat_resource - bump chef cookbook version 12.16.2
+
 ## 0.0.11
 
  * Jenkins instances infra switched to Ubuntu 16.04 due to dependency created by ansible role - kobanyan.jenkins-jnlp-slave

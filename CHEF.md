@@ -1,6 +1,6 @@
 ## ChefDK Installed
 
-* Version 1.0.3
+* Version 1.1.16
 * [Download ChefDK][1]
 
 ## [chef.io][2]

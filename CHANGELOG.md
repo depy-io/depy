@@ -2,6 +2,14 @@
 
 This file is used to list changes made in each version of the depi framework.
 
+## 0.0.13
+
+ * Jenkins - bumping to version 2.37
+ * route53 chef cookbook - bumping to versin 1.1.1
+ * compat_resource chef cookbok - bumping to version 12.16.3
+ * CLM - Switched Capture Screen applications for RTC/RQM due to certificates expirations
+ * Refactoring
+
 ## 0.0.12
 
  * Jenkins - bump version 2.36

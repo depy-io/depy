@@ -9,7 +9,7 @@ depi is a Delivery Pipeline as a Service automation framework.
 ![alt tag](https://github.com/lioramilbaum/depi-fe/blob/master/images/depi.png)
 
 ## Supported Applications
-* [clm](https://github.com/lioramilbaum/depi-fe/apps/blob/develop/clm.md "Title")
+* [clm](https://github.com/lioramilbaum/depi-fe/blob/master/apps/clm.md "Title")
 
 # Authors
 

@@ -2,6 +2,7 @@
 
 This file is used to list changes made in each version of the depi framework.
 ## 0.0.14
+
  * Initial support for IBM RPE
  * Initial support for centric user management. Already implemented for Jenkins/Ansible
  * Jenkins/Ansible - Run Build job

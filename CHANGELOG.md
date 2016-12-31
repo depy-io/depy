@@ -1,6 +1,15 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+## 0.0.14
+ * Initial support for IBM RPE
+ * Initial support for centric user management. Already implemented for Jenkins/Ansible
+ * Jenkins/Ansible - Run Build job
+ * Jenkins/Ansible - Port forwarding, network interface as a parameter
+ * Jenkins/Ansible - Attached an AWS policy to an IAM Role
+ * Jenkins - bumping to version 2.38
+ * Jenkins/Ansible - security. Job list listed before logging in
+ * Jenkins/Ansible - configure sbt plugin
 
 ## 0.0.13
 

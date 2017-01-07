@@ -5,15 +5,18 @@ Supported topology for deployment is a single-server Rational® solution for Col
 ![Evaluation topologies](https://jazz.net/wiki/pub/Deployment/StandardTopologiesOverview/evaluation.png)
 
 Components:
+
 * clm server
 * build machine
 
 Operating system:
+
 * 5.0.2  - Ubuntu 14.04 ami-55452e26
 * 6.0.2* - Ubuntu 14.04 ami-55452e26
 * 6.0.3  - Ubuntu 16.04 ami-21abf052
 
 Versions:
+
 * 5.0.2
 * 6.0.2
 * 6.0.2_ifix004

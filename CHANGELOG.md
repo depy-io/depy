@@ -1,6 +1,21 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+## 0.0.15
+
+ * Jenkins/Chef - Initial support for test Kitchen
+ * Jenkins/Ansible - Disable Administrative Monitor Notification
+ * Jenkins/Ansible - Enable Elastic IPs
+ * Jenkins/Ansible - add flexiable-publish & pipeline plugins
+ * Jenkins/Ansible - JDK configuration
+ * Jenkins script - Backup jobs config XML to git repo
+ * Jenkins - bumping to version 2.39
+ * Jenkins/Ansible - add a policy to the IAM role to enable push to S3
+ * Jenkins/Ansible - Deploy AWS CLI on jenkins node
+ * CLM/Ansible+Chef - adding version 5.0.2 support (including screen capture)
+ * frontend application - home page
+ * Jenkins - Documentation
+ 
 ## 0.0.14
 
  * Initial support for IBM RPE

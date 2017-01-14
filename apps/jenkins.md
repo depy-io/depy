@@ -2,10 +2,10 @@
 
 Components:
 
-* jenkins master
-* jenkins node/slave
+* master
+* node/slave
 
-Operating system:
+Platforms:
 
 * Ubuntu 16.04 ami-21abf052
 

@@ -1,4 +1,4 @@
-# IBM Collaborative Lifecycle Management
+# IBM Collaborative Lifecycle Management (CLM)
 
 Supported topology for deployment is a single-server Rational® solution for Collaborative Lifecycle Management (CLM) evaluation topology with Liberty and Derby
 
@@ -6,14 +6,14 @@ Supported topology for deployment is a single-server Rational® solution for Col
 
 Components:
 
-* clm server
+* server
 * build machine
 
-Operating system:
+Platforms:
 
 * 5.0.2  - Ubuntu 14.04 ami-55452e26
 * 6.0.2* - Ubuntu 14.04 ami-55452e26
-* 6.0.3  - Ubuntu 16.04 ami-21abf052
+* 6.0.3* - Ubuntu 16.04 ami-21abf052
 
 Versions:
 
@@ -22,4 +22,8 @@ Versions:
 * 6.0.2_ifix004
 * 6.0.2_ifix006
 * 6.0.3
+* 6.0.3_ifix001
 
+[Knowledge Center][1]
+
+[1]: https://www.ibm.com/support/knowledgecenter/SSYMRC/clm_family_welcome.html "Title"

@@ -1,6 +1,18 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+## 0.0.16
+
+ * CLM - Bumping to version 6.0.3 iFix01
+ * RCL/Chef - Bumping to version 8.1.4.5
+ * Java/Chef - Bumping cookbook to version 1.46.0
+ * RPE/Chef - version 2.1.1, Report Builder web service
+ * poise_archive -> ark/chef - Switching cookbooks
+ * CLM - Replaced hard coded user info with variables
+ * depi_integrations/Chef - git-rtc recipe performance boost. perl installation only for windows and libgit2 is installed via Ubuntu 16.04 official package 
+ * IIM - Added support for master password file generation required by IBM repos
+ * GIT/Chef - Switched to Ubuntu 16.04 platform
+ 
 ## 0.0.15
 
  * Jenkins/Chef - Initial support for test Kitchen

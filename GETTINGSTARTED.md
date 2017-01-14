@@ -8,7 +8,7 @@
 
 3. cd <your company name>
 
-4. Fill in the values in conf.json file
+4. Fill in the values in aaa.json file
 
 ## Spotinst settings
 

@@ -13,6 +13,7 @@ depi is a Delivery Pipeline as a Service automation framework.
 * [clm](https://github.com/lioramilbaum/depi-fe/blob/master/apps/clm.md "Title")
 * [jenkins](https://github.com/lioramilbaum/depi-fe/blob/master/apps/jenkins.md "Title")
 * [rpe](https://github.com/lioramilbaum/depi-fe/blob/master/apps/rpe.md "Title")
+* [docker](https://github.com/lioramilbaum/depi-fe/blob/master/apps/docker.md "Title")
 
 ## Supported Cloud Providers
 * [aws](https://github.com/lioramilbaum/depi-fe/blob/master/cloud_providers/aws.md "Title")

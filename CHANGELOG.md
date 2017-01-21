@@ -1,6 +1,22 @@
 # depi framework CHANGELOG
 
 This file is used to list changes made in each version of the depi framework.
+## 0.0.17
+
+ * HelloWorld Sample/Ansible 
+ * Docker Engine/Ansible - version 1.13.0
+ * git/Ansible
+ * Jenkins/Chef - Bringing to the same baseline as in Ansible
+ * Jenkins/Chef - Bumping cookbook to 4.2.1
+ * git/Chef - Bumping cookbook to 5.0.2
+ * Ansible - Bumping to version 2.2.1
+ * iptables/Chef - Bumping cookbook to 3.1.0
+ * chefdk - Bumping to version 1.1.16
+ * clm/Chef - code refactoring
+ * RPE/Chef - fixed deployment error
+ * depi deploy scripts - converted from bash to python
+ * Jenkins - Pinning plugin versions and bumping to the latest
+ 
 ## 0.0.16
 
  * CLM - Bumping to version 6.0.3 iFix01

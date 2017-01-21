@@ -9,9 +9,9 @@
     "pug": "^2.0.0-beta6",
     "stylus": "^0.54.5"
   },
-  "name": "depi",
+  "name": "depy",
   "version": "0.0.15",
-  "description": "depi frontend application",
+  "description": "depy web application",
   "main": "server.js",
   "scripts": {
     "build-css": "stylus source/stylesheets/index.styl -o static/css",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:lioramilbaum/depi-fe.git"
+    "url": "git@github.com:lioramilbaum/depy.git"
   },
   "author": "Liora Milbaum",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lioramilbaum/depi-fe/issues"
+    "url": "https://github.com/lioramilbaum/depy/issues"
   },
-  "homepage": "https://github.com/lioramilbaum/depi-fe#readme"
+  "homepage": "https://github.com/lioramilbaum/depy#readme"
 }

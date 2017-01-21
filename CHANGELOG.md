@@ -1,6 +1,6 @@
-# depi framework CHANGELOG
+# depy framework CHANGELOG
 
-This file is used to list changes made in each version of the depi framework.
+This file is used to list changes made in each version of the depy framework.
 ## 0.0.17
 
  * HelloWorld Sample/Ansible 
@@ -14,7 +14,7 @@ This file is used to list changes made in each version of the depi framework.
  * chefdk - Bumping to version 1.1.16
  * clm/Chef - code refactoring
  * RPE/Chef - fixed deployment error
- * depi deploy scripts - converted from bash to python
+ * depy deploy scripts - converted from bash to python
  * Jenkins - Pinning plugin versions and bumping to the latest
  
 ## 0.0.16
@@ -25,7 +25,7 @@ This file is used to list changes made in each version of the depi framework.
  * RPE/Chef - version 2.1.1, Report Builder web service
  * poise_archive -> ark/chef - Switching cookbooks
  * CLM - Replaced hard coded user info with variables
- * depi_integrations/Chef - git-rtc recipe performance boost. perl installation only for windows and libgit2 is installed via Ubuntu 16.04 official package 
+ * depy_integrations/Chef - git-rtc recipe performance boost. perl installation only for windows and libgit2 is installed via Ubuntu 16.04 official package 
  * IIM - Added support for master password file generation required by IBM repos
  * GIT/Chef - Switched to Ubuntu 16.04 platform
  
@@ -102,11 +102,11 @@ This file is used to list changes made in each version of the depi framework.
 
 Major code refactoring:
 
-* central configuration system (depi/conf)
+* central configuration system (depy/conf)
 
 * Dynamically management AWS security groups
 
-* Two systems: chef and depi. Each launched separately.
+* Two systems: chef and depy. Each launched separately.
 
 * spotinst api token central function
 

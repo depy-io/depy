@@ -1,6 +1,25 @@
-# depi framework CHANGELOG
+# depy framework CHANGELOG
 
-This file is used to list changes made in each version of the depi framework.
+This file is used to list changes made in each version of the depy framework.
+
+## 0.0.18
+
+ * Renaming the service. Used to be depi. Now it is depy. 
+ * depy website - www.depy.io
+ * feature toggle - initial release with Jenkins/scm_sync
+ * git/Chef - Fixed a bug. Since jenkins config file included git* attributes (plugin names), knife search returned all nodes which included those attributes. Moved the plugin list from environment to jenkins-master role.
+ * rcl/Chef - Fixed a bug. rcl should be deployed before depending applications: UCD, UCR, RPE
+ * depy.io nodejs application is deployed with AWS Elastic Beanstalk
+ * git/Chef - pinned git version to 2.7.4
+ * refactoring - git-server role is dynamically generated from template
+ * refactoring - deploy applications loop (according to the list in aaa.json) replacing hard coded application list
+ * Bumping:
+ 	* Ansible - 2.2.1
+ 	* route53/Chef cookbook - 1.2.1
+ 	* runit/Chef cookbook - 3.0.4
+ 	* Jenkins - 2.42
+ 	* Jenkins plugins - latest and greatest of various plugins
+ 
 ## 0.0.17
 
  * HelloWorld Sample/Ansible 
@@ -14,7 +33,7 @@ This file is used to list changes made in each version of the depi framework.
  * chefdk - Bumping to version 1.1.16
  * clm/Chef - code refactoring
  * RPE/Chef - fixed deployment error
- * depi deploy scripts - converted from bash to python
+ * depy deploy scripts - converted from bash to python
  * Jenkins - Pinning plugin versions and bumping to the latest
  
 ## 0.0.16
@@ -25,7 +44,7 @@ This file is used to list changes made in each version of the depi framework.
  * RPE/Chef - version 2.1.1, Report Builder web service
  * poise_archive -> ark/chef - Switching cookbooks
  * CLM - Replaced hard coded user info with variables
- * depi_integrations/Chef - git-rtc recipe performance boost. perl installation only for windows and libgit2 is installed via Ubuntu 16.04 official package 
+ * depy_integrations/Chef - git-rtc recipe performance boost. perl installation only for windows and libgit2 is installed via Ubuntu 16.04 official package 
  * IIM - Added support for master password file generation required by IBM repos
  * GIT/Chef - Switched to Ubuntu 16.04 platform
  
@@ -102,11 +121,11 @@ This file is used to list changes made in each version of the depi framework.
 
 Major code refactoring:
 
-* central configuration system (depi/conf)
+* central configuration system (depy/conf)
 
 * Dynamically management AWS security groups
 
-* Two systems: chef and depi. Each launched separately.
+* Two systems: chef and depy. Each launched separately.
 
 * spotinst api token central function
 

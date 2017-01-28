@@ -2,7 +2,7 @@
 
 ## configure your company settings:
 
-1. cd <depi home>/conf
+1. cd <depy home>/conf
 
 2. cp -R company <your company name>
 
@@ -16,8 +16,8 @@
 
 2. store your Spotinst API Token in the file
 
-## Running depi:
+## Running depy:
 
-1. cd <depi home>
+1. cd <depy home>
 
-2. python main.py <chef|depi> <your company name>
+2. python main.py <chef|depy> <your company name>

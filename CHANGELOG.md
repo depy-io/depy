@@ -1,6 +1,25 @@
 # depy framework CHANGELOG
 
 This file is used to list changes made in each version of the depy framework.
+
+## 0.0.18
+
+ * Renaming the service. Used to be depi. Now it is depy. 
+ * depy website - www.depy.io
+ * feature toggle - initial release with Jenkins/scm_sync
+ * git/Chef - Fixed a bug. Since jenkins config file included git* attributes (plugin names), knife search returned all nodes which included those attributes. Moved the plugin list from environment to jenkins-master role.
+ * rcl/Chef - Fixed a bug. rcl should be deployed before depending applications: UCD, UCR, RPE
+ * depy.io nodejs application is deployed with AWS Elastic Beanstalk
+ * git/Chef - pinned git version to 2.7.4
+ * refactoring - git-server role is dynamically generated from template
+ * refactoring - deploy applications loop (according to the list in aaa.json) replacing hard coded application list
+ * Bumping:
+ 	* Ansible - 2.2.1
+ 	* route53/Chef cookbook - 1.2.1
+ 	* runit/Chef cookbook - 3.0.4
+ 	* Jenkins - 2.42
+ 	* Jenkins plugins - latest and greatest of various plugins
+ 
 ## 0.0.17
 
  * HelloWorld Sample/Ansible 

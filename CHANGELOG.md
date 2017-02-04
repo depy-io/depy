@@ -6,7 +6,7 @@ This file is used to list changes made in each version of the depy framework.
 
 ### Highlights
  * Feature Toggle - Features will be controlled by configuration file conf/\<company\>/\<application\>/features.json. The active key will be set to true if feature deployment is desired.
- * RTCSample.jar is no longer included statically in the chef cookbook, but, built and linked dynamically in the git node
+ * RTCSample.jar is no longer included statically in the chef cookbook, but, built and linked dynamically on the git node
  * DEPY name in depy.io webapp switched from previous name: DEPI
  * Github organization depy-io. Moved depy repo from user: lioramilbaum to the organization
  

@@ -1,6 +1,7 @@
 ## ChefDK Installed
 
-* Version 1.1.16
+* Version 1.2.22-1
+* berkshelf 5.6.1
 * [Download ChefDK][1]
 
 ## test-kitchen

@@ -15,7 +15,3 @@ Account
 * Generated API Token
 
 * Store your API token in ~/.spotinst file
-
-# [Chef](https://github.com/lioramilbaum/depy/blob/master/CHEF.md "Title")
-
-# [ansible](https://github.com/lioramilbaum/depy/blob/master/ansible.md "Title")

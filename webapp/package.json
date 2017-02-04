@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:lioramilbaum/depy.git"
+    "url": "git@github.com:depy-io/depy.git"
   },
   "author": "Liora Milbaum",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lioramilbaum/depy/issues"
+    "url": "https://github.com/depy-io/depy/issues"
   },
-  "homepage": "https://github.com/lioramilbaum/depy#readme"
+  "homepage": "https://github.com/depy-io/depy#readme"
 }

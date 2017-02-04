@@ -2,6 +2,29 @@
 
 This file is used to list changes made in each version of the depy framework.
 
+## 0.0.19
+
+### Highlights
+ * Feature Toggle - Features will be controlled by configuration file conf/\<company\>/\<application\>/features.json. The active key will be set to true if feature deployment is desired.
+ * RTCSample.jar is no longer included statically in the chef cookbook, but, built and linked dynamically on the git node
+ * DEPY name in depy.io webapp switched from previous name: DEPI
+ * Github organization depy-io. Moved depy repo from user: lioramilbaum to the organization
+ 
+### Full list
+ * depy webapp environment upgrade - terminate/create prod environment (AWS Elastic Beanstalk) using boto3 library from the publish process
+ * Chef - chef.io bumping to version 12.18.31
+ * Chef - chefdk bumping to version 1.2.22-1
+ * Chef - berkshelf bumping to version 5.6.1 due to new warnings introduced in version 5.6.0 which is the default in chefdk 1.2.22-1
+ * Chef/JKEBanking Sample - Fixing a bug where user credentials were hard coded insted of utilizing the user.json configuraiton file #193
+ * Chef/Jenkins - Uploading features.json using conversion from json to ruby #194
+ * Jenkins/scm_sync feature - feature toggle #195
+ * chef upload - feature toggle #196
+ * depy/clean - feature toggle #197
+ * Jenkins - Bumping to version 2.43 #198
+ * webapp - DEPY name in depy.io switched from previous name: DEPI
+ * webapp - Github organization depy-io. Moved depy repo from user: lioramilbaum to the organization
+ 
+
 ## 0.0.18
 
  * Renaming the service. Used to be depi. Now it is depy. 

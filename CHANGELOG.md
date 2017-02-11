@@ -1,6 +1,35 @@
-# depy framework CHANGELOG
-
 This file is used to list changes made in each version of the depy framework.
+
+## 0.0.20
+
+### Highlights
+ * Bumping versions - clm and jenkins
+ * Infrastructure abstraction - Using platform names instead of ami versions. Platform is depended by application version.
+ * Jenkins feature toggle - scm_sync and slack
+ * Application Versions - dedicated config file
+ * chef.io component - nodejs application
+ * chef.io upgrades improved by utilizing AWS Elastic Beanstalk capablities.
+ * logging - MVP version. Each function, begin+end, prints its name
+
+### Full list
+ * clm - bumping to version 6.0.2 ifix008 and 6.0.3 ifix002
+ * clm - standardize the jbe component deployment for all versions
+ * depy-backend - lmb.spotinst ansible role renamed -> depy.spotinst
+ * depy-backend - infrastructure abstraction - application configuration requires platform name instead of AMI. MVP version - implemented for clm
+ * clm/ansible - fixed typos in __screen_capture.yml file.  admin.password instead of admin.passord
+ * clm refactoring - upstart/systemd is depended on the platform version instead of clm version
+ * depy-backend - settings.py refactoring - settings_load_features was renamed to settings_load which loads several types of configuration files
+ * Jenkins/Chef - fixed typos in scm_sync recipe
+ * Jenkins/Chef - feature recipe now installs its dedicated plugins
+ * Jenkins/Chef - feature recipe for slack. MVP version, deploys plugins.
+ * depy-backend - Printing info messages before deploy begins
+ * depy-backend - Splitting application versions from main config file to <app>/versions.json file. MVP version - implemented for Jenkins.
+ * Jenkins - bumping to version 2.45 including plugins upgrades
+ * depy - moved chef.io application to a dedicated private repo
+ * depy - documentation updates
+ * depy-utils - addeded chef.io component to the release process
+ * depy-utils - upgrading chef.io prod environment with upgrade_environment function instead of terminating/creating environment.
+ * depy-backend - logging option. MVP Version.
 
 ## 0.0.19
 

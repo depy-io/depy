@@ -21,8 +21,10 @@ Versions:
 * 6.0.2
 * 6.0.2_ifix004
 * 6.0.2_ifix006
+* 6.0.2_ifix008
 * 6.0.3
 * 6.0.3_ifix001
+* 6.0.3_ifix002
 
 [Knowledge Center][1]
 

@@ -1,5 +1,8 @@
 # Amazon Web Services (AWS)
 
+* AWS account
+* awscli installed
+
 Services:
 
 * EC2
@@ -11,3 +14,4 @@ Services:
    * Policies
    * Roles
 * Route 53
+* Elastic Beanstalk

@@ -1,5 +1,27 @@
 This file is used to list changes made in each version of the depy framework.
 
+## 0.0.21
+
+### Highlights
+ * Bumping versions - Jenkins
+ * Jenkins feature toggle - selenium
+ * depy feature toggle - aws_security
+ 
+### Full list
+ * Jenkins - Bumping to version 2.46
+ * Jenkins/Selenium - Feature Toggle. Installing selenium plugin and configuring selenium grid.
+ * depy/aws_security - Feature Toggle. AWS Security is restricted to VPC instances and depy control machine.
+ * Logging - All python functions issues start/end log messages. Coverting print commands to logger format.
+ * Ansible/Jenkins - node labels is now a variable (not hard coded label)
+ * depy - improved performance. Removed sleep for 60 seconds for spotinst to terminate instances. Instead, looping for delete_security_group to success.
+ * Ansible/unarchive module - replace copy attribute with remote_src. copy attribute is deprecated.
+ * Ansible/Jenkins - Refactoring. Node creation is done only in jenkins-node role. Removed dependency in jenkins-master role.
+ * Ansible/roles - Refactoring. Arranging the roles in folders: depy and galaxy (community roles)
+ * Ansible/roles - Refactoring. Renamed depy roles names from "lmb.xxx" to "depy.xxx"
+ * depy-utils/Publish - Fixed a bug. Publish is updating chef.io elastic beanstalk environment.
+ * depy-utils/Publish - Used GitHub API to close the current milestone
+ * depy-io - Updated the Home & About pages
+
 ## 0.0.20
 
 ### Highlights

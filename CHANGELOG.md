@@ -1,5 +1,28 @@
 This file is used to list changes made in each version of the depy framework.
 
+## 0.0.22
+
+### Highlights
+ * SVN/Ansible - MVP version. 
+ * Artifactory/Ansible - MVP version. 
+ * depy/Ansible - Add ability to launch On Demand instances (Windows/Linux)
+ * UCR/Ansible - Now, also available with Ansible.
+ * Jenkins/Ansible - Adding additional nodes
+### Full list
+ * SVN/Ansible - MVP version. Platform Supported - Windows 2012 server. First time, speaning windows AWS instance.
+ * Artifactory/Ansible - MVP version. Supporting two releses: 5.0.1 & 5.1.0.
+ * depy/Ansible - Continuous Improvement. More applications switched to updated configuration system.
+ * depy/Ansible - Add ability to launch On Demand instances (Windows/Linux)
+ * depy/Ansible - Add ability to launch spot instances via spotinst service with no addition disk
+ * jeffgeerling.java Ansible galaxy role - Bumping to version 1.7.3
+ * UCR/Ansible - Now, also available with Ansible. Adding systemd service for UCR server.
+ * depy/Ansible - Importing/Upgrading galaxy roles
+ * UCR - Bumping to version 6.2.1.3
+ * IIM/Ansible - Porting to RHEL
+ * poise-archive/Chef - Bumping to version 1.4.0
+ * Jenkins - Bumping to version 2.47 + plugins
+ * Jenkins/Ansible - Adding additional nodes: selenuium, helper
+ 
 ## 0.0.21
 
 ### Highlights

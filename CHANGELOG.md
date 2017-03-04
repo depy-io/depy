@@ -1,6 +1,34 @@
 This file is used to list changes made in each version of the depy framework.
 
-## 0.0.22
+## 0.0.23 (2017-03-04)
+### Highlights
+ * Jenkins - 4 components: master, 2 regular nodes and 1 selenium node. 
+ * Jenkins - Chef/Ansible - match to the same baseline
+ * Jenkins + plugins - Bumpting to version 2.48
+ * depy/configuration system - split componetns from infra
+ * depy/chef & ansible - feature toggles
+ 
+### Full list
+ * Jenkins - 4 components: master, 2 regular nodes and 1 selenium node. 
+ * Jenkins - Chef/Ansible - match to the same baseline
+ * Jenkins + plugins - Bumpting to version 2.48
+ * depy/configuration system - split componetns from infra
+ * depy/chef & ansible - feature toggles
+ * UCD - Adding versions 6.2.3/6.2.3.1
+ * Jenkins/Selenium plugin - Bumping to version 3.1.0
+ * Jenkins - # of executors is configurable
+ * Jenkins/executors - feature toggle
+ * depy/timezone - feature toggle. If active set timezone.
+ * Jenkins - Fully support new (splitted) configuration system
+ * depy/configuration system - continues improvements
+ * Jenkins/kobanyan.jenkins-jnlp-slave - Bumping to version 0.0.3
+ * Jenkins - Supporting http/https protocols
+ * Jenkins - Selenium node installation & configuration
+ * Jenkins - CLI auth: username/password or key
+ * git/git chef cookbook - Bumping to version 6.0.0
+ * CLM - Adding multiple versions
+
+## 0.0.22 (2017-02-26)
 
 ### Highlights
  * SVN/Ansible - MVP version. 

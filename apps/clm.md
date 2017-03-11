@@ -6,25 +6,44 @@ Supported topology for deployment is a single-server Rational® solution for Col
 
 Components:
 
-* server
-* build machine
+* CLM server
+* Jazz build engine
 
 Platforms:
 
-* 5.0.2  - Ubuntu 14.04 ami-55452e26
+* 4.0.7* - Ubuntu 14.04 ami-55452e26
+* 5.0.0* - Ubuntu 14.04 ami-55452e26
+* 5.0.2* - Ubuntu 14.04 ami-55452e26
+* 6.0.0* - Ubuntu 14.04 ami-55452e26
 * 6.0.2* - Ubuntu 14.04 ami-55452e26
 * 6.0.3* - Ubuntu 16.04 ami-21abf052
 
 Versions:
 
+* 4.0.7
+* 4.0.7_iFix010
+* 4.0.7_iFix012
+* 5.0.0
+* 5.0.0_iFix009
+* 5.0.0_iFix010
 * 5.0.2
+* 5.0.2_iFix020
+* 6.0.0
+* 6.0.0_iFix009a
+* 6.0.0_iFix010
+* 6.0.1
+* 6.0.1_iFix010
+* 6.0.1_iFix011
 * 6.0.2
-* 6.0.2_ifix004
-* 6.0.2_ifix006
-* 6.0.2_ifix008
+* 6.0.2_iFix003
+* 6.0.2_iFix004
+* 6.0.2_iFix006
+* 6.0.2_iFix007
+* 6.0.2_iFix008
 * 6.0.3
-* 6.0.3_ifix001
-* 6.0.3_ifix002
+* 6.0.3_iFix001
+* 6.0.3_iFix002
+* 6.0.3_iFix003
 
 [Knowledge Center][1]
 

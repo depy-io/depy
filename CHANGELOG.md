@@ -1,5 +1,19 @@
 This file is used to list changes made in each version of the depy framework.
 
+## 0.0.24 (2017-03-11)
+### Highlights
+ * CLM Stabilization, more supported versions including the latest iFixes.
+ * CLM - Activating Global Configuration Management (gcm) key
+
+### Full list
+ * CLM Stabilization, adding more supported versions including the latest iFixes.
+ * CLM - Activating Global Configuration Management (gcm) key.
+ * CLM - Adjusting instance types and disk size.
+ * depy - Updated CLM documentation page. All supported versions are listed.
+ * Chef configuration files updated to new configuration system
+ * spotinst - feature toggle configuration moved from individual application configuration to depy/features.json
+ * depy-utils - Create next release GitHub milestone
+
 ## 0.0.23 (2017-03-04)
 ### Highlights
  * Jenkins - 4 components: master, 2 regular nodes and 1 selenium node. 

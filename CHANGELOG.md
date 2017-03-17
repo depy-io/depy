@@ -1,5 +1,22 @@
 This file is used to list changes made in each version of the depy framework.
 
+## 0.0.25 (2017-03-17)
+### Highlights
+ * Environments - different configuration per environment. For example: dev and prod.
+ * All traffic utilizing public dns names/ips, including internal VPC. Adding an AWS security group inbound rule to allow all traffic inside the VPC and from depy workstation/predefind cidr ips.
+
+### Full list
+ * Environments - different configuration per invironment. For example: dev and prod.
+ * All traffic utilizing public dns names/ips, including internal VPC. Adding an AWS security group inbound rule to allow all traffic inside the VPC and from depy workstation/predefind cidr ips.
+ * depy/aws_security - remove feature toggle. No longer required.
+ * Jenkins/Ansible - Bumping community role to 2.7.1
+ * Jenkins/Selenium - Fixing xvfb settings
+ * depy/component dns_name - no longer required. Avoid route53 configuration, not to hit AWS limit.
+ * Jenkins/swap - feature toggle. Configure swap file for master and nodes.
+ * Jenkins + CLM - stabilization following changes in the configuration system
+ * Jenkins - Bumping to version 2.50 + plugins
+  
+
 ## 0.0.24 (2017-03-11)
 ### Highlights
  * CLM Stabilization, more supported versions including the latest iFixes.

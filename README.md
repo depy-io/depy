@@ -16,7 +16,7 @@ depy is a Delivery Pipeline as a Service automation framework.
 * [docker](https://github.com/lioramilbaum/depy/blob/master/apps/docker.md "Title")
 
 ## Supported Cloud Providers
-* [aws](https://github.com/lioramilbaum/depy/blob/master/cloud_providers/aws.md "Title")
+* [aws](https://github.com/lioramilbaum/depy/blob/master/cloud/aws.md "Title")
 
 ## Supported Configuration Management Systems
 * [Chef](https://github.com/lioramilbaum/depy/blob/master/configuration_management/chef.md "Title")

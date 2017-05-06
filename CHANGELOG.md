@@ -1,20 +1,7 @@
 # Change Log
 
-## [0.0.31](https://github.com/depy-io/depy/tree/0.0.31) (2017-04-23)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.31)
-
-**Implemented enhancements:**
-
-- Jenkins - seed job [\#242](https://github.com/depy-io/depy/issues/242)
-- Splunk [\#240](https://github.com/depy-io/depy/issues/240)
-- Gradle [\#239](https://github.com/depy-io/depy/issues/239)
-
-**Closed issues:**
-
-- Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
-
-## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-04-23)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.29...0.0.32)
+## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.32)
 
 **Implemented enhancements:**
 
@@ -32,6 +19,19 @@
 
 - Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
 - Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
+
+## [0.0.31](https://github.com/depy-io/depy/tree/0.0.31) (2017-04-23)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.29...0.0.31)
+
+**Implemented enhancements:**
+
+- Jenkins - seed job [\#242](https://github.com/depy-io/depy/issues/242)
+- Splunk [\#240](https://github.com/depy-io/depy/issues/240)
+- Gradle [\#239](https://github.com/depy-io/depy/issues/239)
+
+**Closed issues:**
+
+- Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
 
 ## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.29)

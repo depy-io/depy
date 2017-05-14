@@ -1,5 +1,34 @@
 # Change Log
 
+## [0.0.33](https://github.com/depy-io/depy/tree/0.0.33) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.33)
+
+**Implemented enhancements:**
+
+- Publish a new depy release in twitter [\#264](https://github.com/depy-io/depy/issues/264)
+- Git Large File Storage [\#261](https://github.com/depy-io/depy/issues/261)
+- git - Chef Policyfile [\#258](https://github.com/depy-io/depy/issues/258)
+- RCL - Ansible +  Chef + Chef Policyfile [\#254](https://github.com/depy-io/depy/issues/254)
+- Switch Red Hat instances with CentOS/SUSE [\#32](https://github.com/depy-io/depy/issues/32)
+
+**Fixed bugs:**
+
+- git lfs - not idempotent [\#266](https://github.com/depy-io/depy/issues/266)
+- RCL - Duplicate deployment [\#259](https://github.com/depy-io/depy/issues/259)
+- git - honor version attribute [\#255](https://github.com/depy-io/depy/issues/255)
+- depy/Ansible - increash ssh timeout for SUSE instances [\#253](https://github.com/depy-io/depy/issues/253)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.60 + bumping plugins versions [\#265](https://github.com/depy-io/depy/issues/265)
+- Jenkins - Bumping to version 2.59 [\#263](https://github.com/depy-io/depy/issues/263)
+- Git Large File Storage - tests [\#262](https://github.com/depy-io/depy/issues/262)
+- git - bumping to version 2.12.2 [\#260](https://github.com/depy-io/depy/issues/260)
+- RCL - Bumping to version 8.1.5 [\#257](https://github.com/depy-io/depy/issues/257)
+- Move chef feature toggle attributes to from depy to cm/chef [\#256](https://github.com/depy-io/depy/issues/256)
+- git/Ansible - Switch git community role  [\#252](https://github.com/depy-io/depy/issues/252)
+- git - Rename component from git-server to git-client [\#251](https://github.com/depy-io/depy/issues/251)
+
 ## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.32)
 

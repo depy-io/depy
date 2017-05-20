@@ -1,20 +1,36 @@
 # Change Log
 
-## [0.0.31](https://github.com/depy-io/depy/tree/0.0.31) (2017-04-23)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.31)
+## [0.0.33](https://github.com/depy-io/depy/tree/0.0.33) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.33)
 
 **Implemented enhancements:**
 
-- Jenkins - seed job [\#242](https://github.com/depy-io/depy/issues/242)
-- Splunk [\#240](https://github.com/depy-io/depy/issues/240)
-- Gradle [\#239](https://github.com/depy-io/depy/issues/239)
+- Publish a new depy release in twitter [\#264](https://github.com/depy-io/depy/issues/264)
+- Git Large File Storage [\#261](https://github.com/depy-io/depy/issues/261)
+- git - Chef Policyfile [\#258](https://github.com/depy-io/depy/issues/258)
+- RCL - Ansible +  Chef + Chef Policyfile [\#254](https://github.com/depy-io/depy/issues/254)
+- Switch Red Hat instances with CentOS/SUSE [\#32](https://github.com/depy-io/depy/issues/32)
+
+**Fixed bugs:**
+
+- git lfs - not idempotent [\#266](https://github.com/depy-io/depy/issues/266)
+- RCL - Duplicate deployment [\#259](https://github.com/depy-io/depy/issues/259)
+- git - honor version attribute [\#255](https://github.com/depy-io/depy/issues/255)
+- depy/Ansible - increash ssh timeout for SUSE instances [\#253](https://github.com/depy-io/depy/issues/253)
 
 **Closed issues:**
 
-- Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
+- Jenkins - Bumping to version 2.60 + bumping plugins versions [\#265](https://github.com/depy-io/depy/issues/265)
+- Jenkins - Bumping to version 2.59 [\#263](https://github.com/depy-io/depy/issues/263)
+- Git Large File Storage - tests [\#262](https://github.com/depy-io/depy/issues/262)
+- git - bumping to version 2.12.2 [\#260](https://github.com/depy-io/depy/issues/260)
+- RCL - Bumping to version 8.1.5 [\#257](https://github.com/depy-io/depy/issues/257)
+- Move chef feature toggle attributes to from depy to cm/chef [\#256](https://github.com/depy-io/depy/issues/256)
+- git/Ansible - Switch git community role  [\#252](https://github.com/depy-io/depy/issues/252)
+- git - Rename component from git-server to git-client [\#251](https://github.com/depy-io/depy/issues/251)
 
-## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-04-23)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.29...0.0.32)
+## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.32)
 
 **Implemented enhancements:**
 
@@ -33,24 +49,48 @@
 - Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
 - Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
 
-## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.29)
-
-## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.28)
+## [0.0.34](https://github.com/depy-io/depy/tree/0.0.34) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.34)
 
 **Implemented enhancements:**
 
-- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
-- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
+- depy - Launch RHEL instance performance [\#275](https://github.com/depy-io/depy/issues/275)
+- UCD processes - run as a services [\#274](https://github.com/depy-io/depy/issues/274)
+- UCD/Chef - support policyfile  [\#272](https://github.com/depy-io/depy/issues/272)
+- UCD/Chef - Use data bags instead hard coded admin password [\#271](https://github.com/depy-io/depy/issues/271)
+- Ansilbe/RCL [\#167](https://github.com/depy-io/depy/issues/167)
+- UCD with Ansible [\#40](https://github.com/depy-io/depy/issues/40)
+- Deploy UrbanCode with Ansible [\#37](https://github.com/depy-io/depy/issues/37)
 
 **Closed issues:**
 
-- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
-- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
+- UCD - adding version 6.1.3.6 [\#279](https://github.com/depy-io/depy/issues/279)
+- Ansible/Java - common include file add RedHat support [\#278](https://github.com/depy-io/depy/issues/278)
+- UCD - Bumping to version 6.2.4.1 [\#277](https://github.com/depy-io/depy/issues/277)
+- Jenkins - Bumping to version 2.61 + bumping plugins [\#276](https://github.com/depy-io/depy/issues/276)
+- UCD - variable names standardization [\#273](https://github.com/depy-io/depy/issues/273)
+- Ansible - All UCD components are deployed by one role [\#270](https://github.com/depy-io/depy/issues/270)
+- Ansible - Extract ssh user from the platform [\#269](https://github.com/depy-io/depy/issues/269)
+- Ansible - Move unzip installation to a common include file [\#268](https://github.com/depy-io/depy/issues/268)
+
+## [0.0.31](https://github.com/depy-io/depy/tree/0.0.31) (2017-04-23)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.29...0.0.31)
+
+**Implemented enhancements:**
+
+- Jenkins - seed job [\#242](https://github.com/depy-io/depy/issues/242)
+- Splunk [\#240](https://github.com/depy-io/depy/issues/240)
+- Gradle [\#239](https://github.com/depy-io/depy/issues/239)
+
+**Closed issues:**
+
+- Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
+
+## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.29)
 
 ## [0.0.30](https://github.com/depy-io/depy/tree/0.0.30) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.30)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.30)
 
 **Implemented enhancements:**
 
@@ -73,6 +113,19 @@
 - Chef/upload - move feature to depy application [\#233](https://github.com/depy-io/depy/issues/233)
 - Remove ami\_name and owner attributes - Unneeded [\#230](https://github.com/depy-io/depy/issues/230)
 - Jenkins - Bump to version 2.54/2.55, Bump plugin versions [\#226](https://github.com/depy-io/depy/issues/226)
+
+## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.28)
+
+**Implemented enhancements:**
+
+- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
+- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
+
+**Closed issues:**
+
+- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
+- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
 
 ## [0.0.27](https://github.com/depy-io/depy/tree/0.0.27) (2017-04-01)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.26...0.0.27)

@@ -11,6 +11,7 @@ depy is a Delivery Pipeline as a Service automation framework.
 ## Supported Applications
 * [iim](https://github.com/lioramilbaum/depy/blob/master/apps/iim.md "Title")
 * [clm](https://github.com/lioramilbaum/depy/blob/master/apps/clm.md "Title")
+* [ucd](https://github.com/lioramilbaum/depy/blob/master/apps/ucd.md "Title")
 * [jenkins](https://github.com/lioramilbaum/depy/blob/master/apps/jenkins.md "Title")
 * [rpe](https://github.com/lioramilbaum/depy/blob/master/apps/rpe.md "Title")
 * [docker](https://github.com/lioramilbaum/depy/blob/master/apps/docker.md "Title")

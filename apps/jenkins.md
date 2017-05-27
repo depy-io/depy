@@ -3,27 +3,36 @@
 Components:
 
 * master
-* node/slave
+* node/slave - 3 kinds of slaves, including a selenium slave
 
 Platforms:
 
-* Ubuntu 16.04 ami-21abf052
+* Ubuntu 16.04
 
 Versions:
+
 * 1.620
 * 1.626
 * 1.643
 * 2.27
 * 2.28
-* 2.30
-* 2.31
-* 2.32
-* 2.33
-* 2.34
-* 2.35
-* 2.36
-* 2.37
-* 2.38
-* 2.39
-* 2.40
-* 2.41
+* 2.30-2.62
+
+Core Features:
+
+* port forwarding
+
+Feature Toggles:
+
+ * jdk
+ * sbt
+ * slack
+ * git
+ * seed
+ * scm sync
+ * selenium
+ * splunk
+ * job dsl
+ * remove master executors
+ * rebuild
+ * collabnet

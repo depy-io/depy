@@ -1,5 +1,24 @@
 # Change Log
 
+## [0.0.36](https://github.com/depy-io/depy/tree/0.0.36) (2017-06-03)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.35...0.0.36)
+
+**Implemented enhancements:**
+
+- OnDemand/Ansible - Support capacity feature toggel [\#310](https://github.com/depy-io/depy/issues/310)
+- Improve logging  [\#305](https://github.com/depy-io/depy/issues/305)
+- garbage collector as a standalone function [\#304](https://github.com/depy-io/depy/issues/304)
+
+**Fixed bugs:**
+
+- UCD agent service is not started [\#306](https://github.com/depy-io/depy/issues/306)
+
+**Closed issues:**
+
+- Ansible/iptables\_raw - bumping version [\#311](https://github.com/depy-io/depy/issues/311)
+- Jenkins - Bumping version to 2.63 + plugins [\#309](https://github.com/depy-io/depy/issues/309)
+- Ansible - Bumping version to 2.3.1 [\#308](https://github.com/depy-io/depy/issues/308)
+
 ## [0.0.35](https://github.com/depy-io/depy/tree/0.0.35) (2017-05-27)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.35)
 

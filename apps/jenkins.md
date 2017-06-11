@@ -16,7 +16,7 @@ Versions:
 * 1.643
 * 2.27
 * 2.28
-* 2.30-2.63
+* 2.30-2.64
 
 Core Features:
 
@@ -39,3 +39,5 @@ Feature Toggles:
  * remove master executors
  * rebuild
  * collabnet
+ * favorite
+ * ldap

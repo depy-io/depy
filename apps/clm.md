@@ -11,12 +11,13 @@ Components:
 
 Platforms:
 
-* 4.0.7* - Ubuntu 14.04 ami-55452e26
-* 5.0.0* - Ubuntu 14.04 ami-55452e26
-* 5.0.2* - Ubuntu 14.04 ami-55452e26
-* 6.0.0* - Ubuntu 14.04 ami-55452e26
-* 6.0.2* - Ubuntu 14.04 ami-55452e26
-* 6.0.3* - Ubuntu 16.04 ami-21abf052
+* 4.0.7* - Ubuntu 14.04
+* 5.0.0* - Ubuntu 14.04
+* 5.0.2* - Ubuntu 14.04
+* 6.0.0* - Ubuntu 14.04
+* 6.0.2* - Ubuntu 14.04
+* 6.0.3* - Ubuntu 16.04
+* 6.0.4* - Ubuntu 16.04
 
 Versions:
 
@@ -44,6 +45,16 @@ Versions:
 * 6.0.3_iFix001
 * 6.0.3_iFix002
 * 6.0.3_iFix003
+* 6.0.4
+
+Middleware:
+* default - tomcat/WebSphere Liberty, Derbi
+* WAS - Work In Progress
+
+Feature Toggles:
+
+* Money That Matters Sample
+* Global Configuration Management
 
 [Knowledge Center][1]
 

@@ -6,6 +6,21 @@
 ## [0.0.39](https://github.com/depy-io/depy/tree/0.0.39) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.38...0.0.39)
 
+**Implemented enhancements:**
+
+- ldap application/Ansible  [\#332](https://github.com/depy-io/depy/issues/332)
+- CLM/MTM - feature toggle [\#330](https://github.com/depy-io/depy/issues/330)
+- Launching Windows instances on AWS with Ansible [\#320](https://github.com/depy-io/depy/issues/320)
+- Websphere - MVP [\#162](https://github.com/depy-io/depy/issues/162)
+
+**Closed issues:**
+
+- jenkins - bumping to version 2.66 [\#335](https://github.com/depy-io/depy/issues/335)
+- jenkins ansible role - bumping to version 3.1.2 [\#334](https://github.com/depy-io/depy/issues/334)
+- Ansible Refactoring [\#331](https://github.com/depy-io/depy/issues/331)
+- clm - bump to version 6.0.4 [\#329](https://github.com/depy-io/depy/issues/329)
+- clm/ansible - refactoring - merge clm-server and jbe roles [\#328](https://github.com/depy-io/depy/issues/328)
+
 ## [0.0.38](https://github.com/depy-io/depy/tree/0.0.38) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.37...0.0.38)
 

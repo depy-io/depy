@@ -16,6 +16,7 @@ depy is a Delivery Pipeline as a Service automation framework.
 * [rpe](https://github.com/lioramilbaum/depy/blob/master/apps/rpe.md "Title")
 * [docker](https://github.com/lioramilbaum/depy/blob/master/apps/docker.md "Title")
 * [ldap](https://github.com/lioramilbaum/depy/blob/master/apps/ldap.md "Title")
+* [jira](https://github.com/lioramilbaum/depy/blob/master/apps/jira.md "Title")
 
 ## Supported Cloud Providers
 * [aws](https://github.com/lioramilbaum/depy/blob/master/cloud/aws.md "Title")

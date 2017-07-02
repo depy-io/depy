@@ -12,6 +12,7 @@ depy is a DevOps as a Service automation framework.
 * [docker](https://github.com/lioramilbaum/depy/blob/master/apps/docker.md "Title")
 * [ldap](https://github.com/lioramilbaum/depy/blob/master/apps/ldap.md "Title")
 * [jira](https://github.com/lioramilbaum/depy/blob/master/apps/jira.md "Title")
+* [artifactory](https://github.com/lioramilbaum/depy/blob/master/apps/artifactory.md "Title")
 
 ## Supported middleware
 * [iim](https://github.com/lioramilbaum/depy/blob/master/middleware/iim.md "Title")

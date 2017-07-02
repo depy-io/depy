@@ -3,6 +3,16 @@
 ## [0.0.40](https://github.com/depy-io/depy/tree/0.0.40) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.39...0.0.40)
 
+**Implemented enhancements:**
+
+- conf - version configuration files moved to one folder [\#342](https://github.com/depy-io/depy/issues/342)
+- Multiple platforms support [\#340](https://github.com/depy-io/depy/issues/340)
+- Jira [\#106](https://github.com/depy-io/depy/issues/106)
+
+**Closed issues:**
+
+- Jenkins - Bumping version to 2.67 [\#341](https://github.com/depy-io/depy/issues/341)
+
 ## [0.0.39](https://github.com/depy-io/depy/tree/0.0.39) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.38...0.0.39)
 

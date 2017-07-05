@@ -13,11 +13,11 @@ Platforms:
 
 * 4.0.7* - Ubuntu 14.04
 * 5.0.0* - Ubuntu 14.04
-* 5.0.2* - Ubuntu 14.04
+* 5.0.2* - Ubuntu 14.04, SLES 12
 * 6.0.0* - Ubuntu 14.04
 * 6.0.2* - Ubuntu 14.04
 * 6.0.3* - Ubuntu 16.04
-* 6.0.4* - Ubuntu 16.04
+* 6.0.4* - Ubuntu 16.04, SLES 12
 
 Versions:
 
@@ -47,9 +47,10 @@ Versions:
 * 6.0.3_iFix003
 * 6.0.4
 
-Middleware:
-* default - tomcat/WebSphere Liberty, Derbi
-* WAS - Work In Progress
+Application Server:
+* tomcat
+* liberty
+* WAS
 
 Feature Toggles:
 

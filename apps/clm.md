@@ -29,6 +29,7 @@ Versions:
 * 5.0.0_iFix010
 * 5.0.2
 * 5.0.2_iFix020
+* 5.0.2_iFix022
 * 6.0.0
 * 6.0.0_iFix009a
 * 6.0.0_iFix010
@@ -45,6 +46,7 @@ Versions:
 * 6.0.3_iFix001
 * 6.0.3_iFix002
 * 6.0.3_iFix003
+* 6.0.3_iFix006
 * 6.0.4
 
 Application Server:

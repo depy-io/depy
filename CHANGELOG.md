@@ -1,5 +1,34 @@
 # Change Log
 
+## [0.0.41](https://github.com/depy-io/depy/tree/0.0.41) (2017-07-02)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.40...0.0.41)
+
+**Implemented enhancements:**
+
+- CLM - Support application\_server type configuration attribute [\#355](https://github.com/depy-io/depy/issues/355)
+- WAS - improve deployment process + add versions [\#352](https://github.com/depy-io/depy/issues/352)
+- clm - do not deploy public key if jbe component is not active [\#349](https://github.com/depy-io/depy/issues/349)
+
+**Fixed bugs:**
+
+- CLM 5.0.2 deployment is broken [\#348](https://github.com/depy-io/depy/issues/348)
+
+**Closed issues:**
+
+- CLM - ifixes 6.0.3 iFix06, 5.0.3 iFix22 [\#358](https://github.com/depy-io/depy/issues/358)
+- Artifactory - Bumping to version 5.4.4 [\#357](https://github.com/depy-io/depy/issues/357)
+- Extract ssh user from platform and remove unneeded configuration attributes [\#356](https://github.com/depy-io/depy/issues/356)
+- AWS - Add platform images [\#354](https://github.com/depy-io/depy/issues/354)
+- Artifactory - Bumping version to 5.4.3 [\#353](https://github.com/depy-io/depy/issues/353)
+- Refactoring - iim is Middleware \(not APP\) [\#351](https://github.com/depy-io/depy/issues/351)
+- Refactoring - SUSE was replaced by SLES [\#350](https://github.com/depy-io/depy/issues/350)
+- jenkins - bumping to version 2.68 [\#347](https://github.com/depy-io/depy/issues/347)
+- Separate User configurations to dedicated folder ~/.depy [\#346](https://github.com/depy-io/depy/issues/346)
+- Jira - Bumping to version 7.4.0 [\#345](https://github.com/depy-io/depy/issues/345)
+- Artifactory - all versions since 5.0.0 + bumping to version 5.4.2 [\#344](https://github.com/depy-io/depy/issues/344)
+- Ansible - Refactoring [\#343](https://github.com/depy-io/depy/issues/343)
+- depy release - migrate from python to Ansible [\#339](https://github.com/depy-io/depy/issues/339)
+
 ## [0.0.40](https://github.com/depy-io/depy/tree/0.0.40) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.39...0.0.40)
 
@@ -86,7 +115,7 @@
 - Ansible - Bumping version to 2.3.1 [\#308](https://github.com/depy-io/depy/issues/308)
 
 ## [0.0.35](https://github.com/depy-io/depy/tree/0.0.35) (2017-05-27)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.35)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.35)
 
 **Implemented enhancements:**
 
@@ -121,28 +150,8 @@
 - Removed  system configuration attribute - not requried [\#284](https://github.com/depy-io/depy/issues/284)
 - Jenkins/jdk - feature toggle [\#281](https://github.com/depy-io/depy/issues/281)
 
-## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.32)
-
-**Implemented enhancements:**
-
-- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
-- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
-- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
-- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
-
-**Fixed bugs:**
-
-- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
-- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
-
-**Closed issues:**
-
-- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
-- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
-
 ## [0.0.33](https://github.com/depy-io/depy/tree/0.0.33) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.33)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.33)
 
 **Implemented enhancements:**
 
@@ -169,6 +178,26 @@
 - Move chef feature toggle attributes to from depy to cm/chef [\#256](https://github.com/depy-io/depy/issues/256)
 - git/Ansible - Switch git community role  [\#252](https://github.com/depy-io/depy/issues/252)
 - git - Rename component from git-server to git-client [\#251](https://github.com/depy-io/depy/issues/251)
+
+## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.32)
+
+**Implemented enhancements:**
+
+- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
+- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
+- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
+- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
+
+**Fixed bugs:**
+
+- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
+- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
+- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
 
 ## [0.0.34](https://github.com/depy-io/depy/tree/0.0.34) (2017-05-06)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.34)

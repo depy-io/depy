@@ -21,7 +21,7 @@ Platforms:
 * 5.4.1 - Ubuntu 16.04
 * 5.4.2 - Ubuntu 16.04
 * 5.4.3 - Ubuntu 16.04
-* 5.4.3 - Ubuntu 16.04
+* 5.4.4 - Ubuntu 16.04
 
 Versions:
 

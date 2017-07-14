@@ -11,6 +11,10 @@
 ## [0.0.42](https://github.com/depy-io/depy/tree/0.0.42) (2017-07-07)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.41...0.0.42)
 
+**Implemented enhancements:**
+
+- Jenkins - Windows slave [\#360](https://github.com/depy-io/depy/issues/360)
+
 **Closed issues:**
 
 - AWS CloudFormation [\#337](https://github.com/depy-io/depy/issues/337)

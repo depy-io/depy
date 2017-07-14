@@ -3,11 +3,15 @@
 Components:
 
 Platforms:
-* Suse 12
+* Ubuntu 16.04
+* SLES 12
 
 Versions:
 
 * 9.5.5
+* 9.5.5.4
+* 9.5.5.5
+* 9.5.5.11
 
 [Knowledge Center][1]
 

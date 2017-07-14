@@ -5,7 +5,7 @@ Components:
 Platforms:
 
 * RHEL 7
-* Suse 12
+* SLES 12
 
 Versions:
 

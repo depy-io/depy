@@ -15,3 +15,4 @@ Services:
    * Roles
 * Route 53
 * Elastic Beanstalk
+* CloudFormation

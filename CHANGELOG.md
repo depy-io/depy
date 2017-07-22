@@ -1,5 +1,69 @@
 # Change Log
 
+## [Unreleased](https://github.com/depy-io/depy/tree/HEAD)
+
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.42...HEAD)
+
+**Implemented enhancements:**
+
+- Ansible/Spotinst/CloudFormation - Continuous Improvement [\#367](https://github.com/depy-io/depy/issues/367)
+- Supporting additional windows platforms [\#364](https://github.com/depy-io/depy/issues/364)
+- windows dev workstation [\#363](https://github.com/depy-io/depy/issues/363)
+- Ansible/SpotInst/CloudFormation/Jenkins instances [\#362](https://github.com/depy-io/depy/issues/362)
+
+**Closed issues:**
+
+- IBM Installation Manager - Bumping to version 1.8.7 [\#370](https://github.com/depy-io/depy/issues/370)
+- Jira - Bumping to version 7.4.1 [\#369](https://github.com/depy-io/depy/issues/369)
+- Jenkins - Bumping to version 2.70 [\#368](https://github.com/depy-io/depy/issues/368)
+- Artifactory - Bumping to version 5.4.5 [\#366](https://github.com/depy-io/depy/issues/366)
+- CLM - Bumping to version 6.0.4 iFix02 [\#365](https://github.com/depy-io/depy/issues/365)
+- spotinst configuration [\#361](https://github.com/depy-io/depy/issues/361)
+
+**Merged pull requests:**
+
+- 0.0.41 [\#359](https://github.com/depy-io/depy/pull/359) ([lioramilbaum](https://github.com/lioramilbaum))
+
+## [0.0.42](https://github.com/depy-io/depy/tree/0.0.42) (2017-07-07)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.41...0.0.42)
+
+**Implemented enhancements:**
+
+- Jenkins - Windows slave [\#360](https://github.com/depy-io/depy/issues/360)
+
+**Closed issues:**
+
+- AWS CloudFormation [\#337](https://github.com/depy-io/depy/issues/337)
+
+## [0.0.41](https://github.com/depy-io/depy/tree/0.0.41) (2017-07-02)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.40...0.0.41)
+
+**Implemented enhancements:**
+
+- CLM - Support application\_server type configuration attribute [\#355](https://github.com/depy-io/depy/issues/355)
+- WAS - improve deployment process + add versions [\#352](https://github.com/depy-io/depy/issues/352)
+- clm - do not deploy public key if jbe component is not active [\#349](https://github.com/depy-io/depy/issues/349)
+
+**Fixed bugs:**
+
+- CLM 5.0.2 deployment is broken [\#348](https://github.com/depy-io/depy/issues/348)
+
+**Closed issues:**
+
+- CLM - ifixes 6.0.3 iFix06, 5.0.3 iFix22 [\#358](https://github.com/depy-io/depy/issues/358)
+- Artifactory - Bumping to version 5.4.4 [\#357](https://github.com/depy-io/depy/issues/357)
+- Extract ssh user from platform and remove unneeded configuration attributes [\#356](https://github.com/depy-io/depy/issues/356)
+- AWS - Add platform images [\#354](https://github.com/depy-io/depy/issues/354)
+- Artifactory - Bumping version to 5.4.3 [\#353](https://github.com/depy-io/depy/issues/353)
+- Refactoring - iim is Middleware \(not APP\) [\#351](https://github.com/depy-io/depy/issues/351)
+- Refactoring - SUSE was replaced by SLES [\#350](https://github.com/depy-io/depy/issues/350)
+- jenkins - bumping to version 2.68 [\#347](https://github.com/depy-io/depy/issues/347)
+- Separate User configurations to dedicated folder ~/.depy [\#346](https://github.com/depy-io/depy/issues/346)
+- Jira - Bumping to version 7.4.0 [\#345](https://github.com/depy-io/depy/issues/345)
+- Artifactory - all versions since 5.0.0 + bumping to version 5.4.2 [\#344](https://github.com/depy-io/depy/issues/344)
+- Ansible - Refactoring [\#343](https://github.com/depy-io/depy/issues/343)
+- depy release - migrate from python to Ansible [\#339](https://github.com/depy-io/depy/issues/339)
+
 ## [0.0.40](https://github.com/depy-io/depy/tree/0.0.40) (2017-06-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.39...0.0.40)
 
@@ -208,23 +272,10 @@
 - Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
 
 ## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.29)
-
-## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.28)
-
-**Implemented enhancements:**
-
-- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
-- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
-
-**Closed issues:**
-
-- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
-- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.29)
 
 ## [0.0.30](https://github.com/depy-io/depy/tree/0.0.30) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.30)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.30)
 
 **Implemented enhancements:**
 
@@ -247,6 +298,19 @@
 - Chef/upload - move feature to depy application [\#233](https://github.com/depy-io/depy/issues/233)
 - Remove ami\_name and owner attributes - Unneeded [\#230](https://github.com/depy-io/depy/issues/230)
 - Jenkins - Bump to version 2.54/2.55, Bump plugin versions [\#226](https://github.com/depy-io/depy/issues/226)
+
+## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.28)
+
+**Implemented enhancements:**
+
+- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
+- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
+
+**Closed issues:**
+
+- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
+- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
 
 ## [0.0.27](https://github.com/depy-io/depy/tree/0.0.27) (2017-04-01)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.26...0.0.27)

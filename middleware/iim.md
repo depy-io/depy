@@ -13,15 +13,16 @@ Versions:
 * 1.8.5
 * 1.8.5.1
 * 1.8.6
+* 1.8.6.1
+* 1.8.7
 
 [Knowledge Center][1]
 
 
-
 [Storing credentials][2]
 
-admin user (from users.conf file) properties are used for IBM ID credentials: 
-* email is used for IBM ID userid 
+admin user (from users.conf file) properties are used for IBM ID credentials:
+* email is used for IBM ID userid
 * password is used for IBM ID password
 
 [1]: https://www.ibm.com/support/knowledgecenter/SSDV2W/im_family_welcome.html "Title"

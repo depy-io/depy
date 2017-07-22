@@ -4,6 +4,22 @@
 
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.42...HEAD)
 
+**Implemented enhancements:**
+
+- Ansible/Spotinst/CloudFormation - Continuous Improvement [\#367](https://github.com/depy-io/depy/issues/367)
+- Supporting additional windows platforms [\#364](https://github.com/depy-io/depy/issues/364)
+- windows dev workstation [\#363](https://github.com/depy-io/depy/issues/363)
+- Ansible/SpotInst/CloudFormation/Jenkins instances [\#362](https://github.com/depy-io/depy/issues/362)
+
+**Closed issues:**
+
+- IBM Installation Manager - Bumping to version 1.8.7 [\#370](https://github.com/depy-io/depy/issues/370)
+- Jira - Bumping to version 7.4.1 [\#369](https://github.com/depy-io/depy/issues/369)
+- Jenkins - Bumping to version 2.70 [\#368](https://github.com/depy-io/depy/issues/368)
+- Artifactory - Bumping to version 5.4.5 [\#366](https://github.com/depy-io/depy/issues/366)
+- CLM - Bumping to version 6.0.4 iFix02 [\#365](https://github.com/depy-io/depy/issues/365)
+- spotinst configuration [\#361](https://github.com/depy-io/depy/issues/361)
+
 **Merged pull requests:**
 
 - 0.0.41 [\#359](https://github.com/depy-io/depy/pull/359) ([lioramilbaum](https://github.com/lioramilbaum))

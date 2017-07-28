@@ -23,7 +23,7 @@ Core Features:
 * port forwarding
 * swap
 * timezone
-* lanching multiple slaves with identical configuration
+* launching multiple slaves with identical configuration
 
 Feature Toggles:
 

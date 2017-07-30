@@ -16,14 +16,14 @@ Versions:
 * 1.643
 * 2.27
 * 2.28
-* 2.30-2.70
+* 2.30-2.71
 
 Core Features:
 
 * port forwarding
 * swap
 * timezone
-* lanching multiple slaves with identical configuration
+* launching multiple slaves with identical configuration
 
 Feature Toggles:
 

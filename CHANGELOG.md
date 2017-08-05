@@ -1,5 +1,22 @@
 # Change Log
 
+## [0.0.45](https://github.com/depy-io/depy/tree/0.0.45) (2017-08-05)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.44...0.0.45)
+
+**Implemented enhancements:**
+
+- Chef/Jenkins/test - Verify Jenkins Runs [\#225](https://github.com/depy-io/depy/issues/225)
+- test - Jenkins Plugins - updates available [\#379](https://github.com/depy-io/depy/issues/379)
+- Validation framework [\#378](https://github.com/depy-io/depy/issues/378)
+- AWS CloudFormation - Enable for Chef [\#376](https://github.com/depy-io/depy/issues/376)
+- AWS CloudFormation - Add ondemand instances to the stack [\#374](https://github.com/depy-io/depy/issues/374)
+- Testing framework - continuous improvment [\#267](https://github.com/depy-io/depy/issues/267)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.72 [\#377](https://github.com/depy-io/depy/issues/377)
+- UCD - Bumping to version 6.2.5.1 [\#375](https://github.com/depy-io/depy/issues/375)
+
 ## [0.0.44](https://github.com/depy-io/depy/tree/0.0.44) (2017-07-30)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.43...0.0.44)
 

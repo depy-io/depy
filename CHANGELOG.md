@@ -1,5 +1,33 @@
 # Change Log
 
+## [0.0.47](https://github.com/depy-io/depy/tree/0.0.47) (2017-08-11)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.46...0.0.47)
+
+## [0.0.46](https://github.com/depy-io/depy/tree/0.0.46) (2017-08-11)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.45...0.0.46)
+
+**Implemented enhancements:**
+
+- Ansible - System Requirements Validations [\#187](https://github.com/depy-io/depy/issues/187)
+- UCR - Add CHEF policyfile support [\#391](https://github.com/depy-io/depy/issues/391)
+- Jira - Add CHEF support [\#390](https://github.com/depy-io/depy/issues/390)
+- AWS userdata function [\#389](https://github.com/depy-io/depy/issues/389)
+- Validation - Verify configuration attributes folder exists [\#385](https://github.com/depy-io/depy/issues/385)
+- control component - MVP [\#382](https://github.com/depy-io/depy/issues/382)
+- LDAP - Add CHEF support [\#380](https://github.com/depy-io/depy/issues/380)
+
+**Fixed bugs:**
+
+- CHEF - remove hard coded private configuration attributes [\#383](https://github.com/depy-io/depy/issues/383)
+
+**Closed issues:**
+
+- Jenkins/CHEF - Bumping cookbook to version 5.0.3 [\#388](https://github.com/depy-io/depy/issues/388)
+- CHEF 13 [\#387](https://github.com/depy-io/depy/issues/387)
+- Validation - Refactoring [\#386](https://github.com/depy-io/depy/issues/386)
+- cm abstraction - call cm functions instead of ansible or CHEF [\#384](https://github.com/depy-io/depy/issues/384)
+- CLM 6.0.3 iFix07 [\#381](https://github.com/depy-io/depy/issues/381)
+
 ## [0.0.45](https://github.com/depy-io/depy/tree/0.0.45) (2017-08-05)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.44...0.0.45)
 
@@ -178,7 +206,7 @@
 - Ansible - Bumping version to 2.3.1 [\#308](https://github.com/depy-io/depy/issues/308)
 
 ## [0.0.35](https://github.com/depy-io/depy/tree/0.0.35) (2017-05-27)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.35)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.35)
 
 **Implemented enhancements:**
 
@@ -213,28 +241,8 @@
 - Removed  system configuration attribute - not requried [\#284](https://github.com/depy-io/depy/issues/284)
 - Jenkins/jdk - feature toggle [\#281](https://github.com/depy-io/depy/issues/281)
 
-## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.32)
-
-**Implemented enhancements:**
-
-- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
-- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
-- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
-- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
-
-**Fixed bugs:**
-
-- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
-- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
-
-**Closed issues:**
-
-- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
-- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
-
 ## [0.0.33](https://github.com/depy-io/depy/tree/0.0.33) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.33)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.33)
 
 **Implemented enhancements:**
 
@@ -261,6 +269,26 @@
 - Move chef feature toggle attributes to from depy to cm/chef [\#256](https://github.com/depy-io/depy/issues/256)
 - git/Ansible - Switch git community role  [\#252](https://github.com/depy-io/depy/issues/252)
 - git - Rename component from git-server to git-client [\#251](https://github.com/depy-io/depy/issues/251)
+
+## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.32)
+
+**Implemented enhancements:**
+
+- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
+- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
+- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
+- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
+
+**Fixed bugs:**
+
+- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
+- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
+- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
 
 ## [0.0.34](https://github.com/depy-io/depy/tree/0.0.34) (2017-05-06)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.34)
@@ -300,23 +328,10 @@
 - Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
 
 ## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.29)
-
-## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.28)
-
-**Implemented enhancements:**
-
-- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
-- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
-
-**Closed issues:**
-
-- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
-- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.29)
 
 ## [0.0.30](https://github.com/depy-io/depy/tree/0.0.30) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.30)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.30)
 
 **Implemented enhancements:**
 
@@ -339,6 +354,19 @@
 - Chef/upload - move feature to depy application [\#233](https://github.com/depy-io/depy/issues/233)
 - Remove ami\_name and owner attributes - Unneeded [\#230](https://github.com/depy-io/depy/issues/230)
 - Jenkins - Bump to version 2.54/2.55, Bump plugin versions [\#226](https://github.com/depy-io/depy/issues/226)
+
+## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.28)
+
+**Implemented enhancements:**
+
+- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
+- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
+
+**Closed issues:**
+
+- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
+- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
 
 ## [0.0.27](https://github.com/depy-io/depy/tree/0.0.27) (2017-04-01)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.26...0.0.27)

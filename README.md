@@ -24,8 +24,8 @@ depy is a DevOps as a Service automation framework.
 * [aws](https://github.com/lioramilbaum/depy/blob/master/cloud/aws.md "Title")
 
 ## Supported Configuration Management Systems
-* [Chef](https://github.com/lioramilbaum/depy/blob/master/configuration_management/chef.md "Title")
-* [Ansible](https://github.com/lioramilbaum/depy/blob/master/configuration_management/ansible.md "Title")
+* [CHEF](https://github.com/lioramilbaum/depy/blob/master/cm/chef.md "Title")
+* [Ansible](https://github.com/lioramilbaum/depy/blob/master/cm/ansible.md "Title")
 
 # Authors
 

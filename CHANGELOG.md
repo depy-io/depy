@@ -1,5 +1,23 @@
 # Change Log
 
+## [0.0.47](https://github.com/depy-io/depy/tree/0.0.47) (2017-08-11)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.46...0.0.47)
+
+**Implemented enhancements:**
+
+- Testing - Verifying Jenkins nodes are not offline [\#399](https://github.com/depy-io/depy/issues/399)
+- CHEF - Redirecting bootstrap output to log file [\#398](https://github.com/depy-io/depy/issues/398)
+- Jenkins windows node with CHEF [\#393](https://github.com/depy-io/depy/issues/393)
+
+**Fixed bugs:**
+
+- Release Process run twice releases an empty milestone [\#396](https://github.com/depy-io/depy/issues/396)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.74 [\#397](https://github.com/depy-io/depy/issues/397)
+- Move Route53 to the core wrapper [\#392](https://github.com/depy-io/depy/issues/392)
+
 ## [0.0.46](https://github.com/depy-io/depy/tree/0.0.46) (2017-08-11)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.45...0.0.46)
 

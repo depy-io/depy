@@ -20,6 +20,7 @@ Versions:
 * 6.2.4.2
 * 6.2.5
 * 6.2.5.1
+* 6.2.5.2
 
 [Knowledge Center][1]
 

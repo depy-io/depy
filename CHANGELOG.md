@@ -1,6 +1,22 @@
 # Change Log
 
-## [0.0.47](https://github.com/depy-io/depy/tree/0.0.47) (2017-08-11)
+## [0.0.48](https://github.com/depy-io/depy/tree/0.0.48) (2017-09-02)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.47...0.0.48)
+
+**Implemented enhancements:**
+
+- Jenkins test role with active seed feature [\#402](https://github.com/depy-io/depy/issues/402)
+
+**Fixed bugs:**
+
+- pin CHEF/Ansible versions installed in the control component [\#395](https://github.com/depy-io/depy/issues/395)
+
+**Closed issues:**
+
+- Artifactory - Bumping to version 5.4.5 [\#401](https://github.com/depy-io/depy/issues/401)
+- Jenkins/Ansible - Refactoring [\#400](https://github.com/depy-io/depy/issues/400)
+
+## [0.0.47](https://github.com/depy-io/depy/tree/0.0.47) (2017-08-19)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.46...0.0.47)
 
 **Implemented enhancements:**

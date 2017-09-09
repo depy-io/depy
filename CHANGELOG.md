@@ -1,5 +1,21 @@
 # Change Log
 
+## [0.0.49](https://github.com/depy-io/depy/tree/0.0.49) (2017-09-09)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.48...0.0.49)
+
+**Implemented enhancements:**
+
+- Jenkins-Artifactory Integration MVP [\#405](https://github.com/depy-io/depy/issues/405)
+- SpotInst: Shutdown Scripts for Elastigroup [\#307](https://github.com/depy-io/depy/issues/307)
+
+**Fixed bugs:**
+
+- chef server/CHEF is broken [\#406](https://github.com/depy-io/depy/issues/406)
+
+**Closed issues:**
+
+- clm - add support to version 6.0 iFix 13 [\#407](https://github.com/depy-io/depy/issues/407)
+
 ## [0.0.48](https://github.com/depy-io/depy/tree/0.0.48) (2017-09-02)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.47...0.0.48)
 

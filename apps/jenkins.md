@@ -42,3 +42,4 @@ Feature Toggles:
  * favorite
  * ldap
  * pipeline
+ * artifactory

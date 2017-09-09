@@ -1,6 +1,6 @@
 ## ChefDK Installed
 
-* Version 2.1.11
+* Version 2.2.1
 * [Download ChefDK][1]
 
 ## test-kitchen

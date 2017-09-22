@@ -1,5 +1,27 @@
 # Change Log
 
+## [0.0.50](https://github.com/depy-io/depy/tree/0.0.50) (2017-09-22)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.49...0.0.50)
+
+**Implemented enhancements:**
+
+- cloudformation - stack per environment [\#414](https://github.com/depy-io/depy/issues/414)
+- Validation - environment name doesn't include the char '-' [\#413](https://github.com/depy-io/depy/issues/413)
+- chef - Use data bags for server admin user and organization [\#410](https://github.com/depy-io/depy/issues/410)
+- chef-server idempotent [\#31](https://github.com/depy-io/depy/issues/31)
+
+**Fixed bugs:**
+
+- cm not initialized from garbage collector [\#412](https://github.com/depy-io/depy/issues/412)
+- chef - addon reporting installed by mistake [\#408](https://github.com/depy-io/depy/issues/408)
+
+**Closed issues:**
+
+- chef/chefdk - bumping versions [\#411](https://github.com/depy-io/depy/issues/411)
+- Add trusted\_certs to gitignore [\#409](https://github.com/depy-io/depy/issues/409)
+- Handle Chef keys [\#84](https://github.com/depy-io/depy/issues/84)
+- Remove dependency in chef.io service [\#26](https://github.com/depy-io/depy/issues/26)
+
 ## [0.0.49](https://github.com/depy-io/depy/tree/0.0.49) (2017-09-09)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.48...0.0.49)
 

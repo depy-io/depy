@@ -1,3 +1,3 @@
 ## Ansible Installed
 
-* Version 2.3.2
+* Version 2.4

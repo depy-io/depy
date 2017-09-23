@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.51](https://github.com/depy-io/depy/tree/0.0.51) (2017-09-23)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.50...0.0.51)
+
 ## [0.0.50](https://github.com/depy-io/depy/tree/0.0.50) (2017-09-22)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.49...0.0.50)
 
@@ -397,10 +400,23 @@
 - Ansible - Bump to version 2.3.0 [\#241](https://github.com/depy-io/depy/issues/241)
 
 ## [0.0.29](https://github.com/depy-io/depy/tree/0.0.29) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.29)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.29)
+
+## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.30...0.0.28)
+
+**Implemented enhancements:**
+
+- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
+- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
+
+**Closed issues:**
+
+- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
+- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
 
 ## [0.0.30](https://github.com/depy-io/depy/tree/0.0.30) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.28...0.0.30)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.30)
 
 **Implemented enhancements:**
 
@@ -423,19 +439,6 @@
 - Chef/upload - move feature to depy application [\#233](https://github.com/depy-io/depy/issues/233)
 - Remove ami\_name and owner attributes - Unneeded [\#230](https://github.com/depy-io/depy/issues/230)
 - Jenkins - Bump to version 2.54/2.55, Bump plugin versions [\#226](https://github.com/depy-io/depy/issues/226)
-
-## [0.0.28](https://github.com/depy-io/depy/tree/0.0.28) (2017-04-08)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.27...0.0.28)
-
-**Implemented enhancements:**
-
-- Update CHANGELOG before release process starts - automation [\#202](https://github.com/depy-io/depy/issues/202)
-- Test automation  [\#46](https://github.com/depy-io/depy/issues/46)
-
-**Closed issues:**
-
-- Chef/Java cookbook - Bumping to version 1.48.0 [\#223](https://github.com/depy-io/depy/issues/223)
-- Remove the use of repo\_home attribute [\#218](https://github.com/depy-io/depy/issues/218)
 
 ## [0.0.27](https://github.com/depy-io/depy/tree/0.0.27) (2017-04-01)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.26...0.0.27)

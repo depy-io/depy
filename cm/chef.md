@@ -1,10 +1,10 @@
 ## ChefDK Installed
 
-* Version 2.3.1
+* Version 2.3.4
 * [Download ChefDK][1]
 
 ## chef client
-* Version 13.4.19
+* Version 13.2.20
 
 ## test-kitchen
 

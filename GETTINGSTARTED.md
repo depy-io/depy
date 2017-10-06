@@ -1,3 +1,7 @@
+## Install docker
+
+version: Version 17.09.0-ce-mac33 (19543)
+
 ## Install python 2.7
 
 ## configure your company settings:
@@ -18,6 +22,4 @@
 
 ## Running depy:
 
-1. cd <depy home>
-
-2. python main.py <chef|depy> <your company name>
+caffeinate docker run --rm -v /Users/liora/git/depy-backend/lift:/lift -v /Users/liora/.depy:/root/.depy -v /Users/liora/.spotinst:/root/.spotinst -v /Users/liora/.ssh:/root/.ssh -v /Users/liora/.aws:/root/.aws -v /Users/liora/.vault_pass.txt:/root/.vault_pass.txt depy python /lift/up.py;say done

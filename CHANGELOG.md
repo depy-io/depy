@@ -1,5 +1,17 @@
 # Change Log
 
+## [0.0.55](https://github.com/depy-io/depy/tree/0.0.55) (2017-10-21)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.54...0.0.55)
+
+**Fixed bugs:**
+
+- up job is not broken if the up step is failing [\#434](https://github.com/depy-io/depy/issues/434)
+
+**Closed issues:**
+
+- Jenkins Refactoring, Bumping to version 2.85 [\#433](https://github.com/depy-io/depy/issues/433)
+- InSpec Attributes [\#432](https://github.com/depy-io/depy/issues/432)
+
 ## [0.0.54](https://github.com/depy-io/depy/tree/0.0.54) (2017-10-19)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.53...0.0.54)
 

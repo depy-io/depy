@@ -43,3 +43,5 @@ Feature Toggles:
  * ldap
  * pipeline
  * artifactory
+ * junit
+ * blueocean

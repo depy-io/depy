@@ -1,5 +1,21 @@
 # Change Log
 
+## [0.0.56](https://github.com/depy-io/depy/tree/0.0.56) (2017-10-30)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.55...0.0.56)
+
+**Implemented enhancements:**
+
+- CHEF - Additional node - Compliance [\#438](https://github.com/depy-io/depy/issues/438)
+- Jenkins - Blue Ocean feature toggle [\#437](https://github.com/depy-io/depy/issues/437)
+- Lobby - Switch from setting config.json to command line arguments [\#435](https://github.com/depy-io/depy/issues/435)
+
+**Closed issues:**
+
+- Switch depy.json configuration file to command line arguments [\#441](https://github.com/depy-io/depy/issues/441)
+- Artifactory - Bumping to version 5.5.2 [\#440](https://github.com/depy-io/depy/issues/440)
+- Move skeleton env configuration attributes to .depy repo [\#439](https://github.com/depy-io/depy/issues/439)
+- chef-server cookbook - Bumping to version 5.5.0, chef-ingredient cookbook - Bumping to version 2.1.10 [\#436](https://github.com/depy-io/depy/issues/436)
+
 ## [0.0.55](https://github.com/depy-io/depy/tree/0.0.55) (2017-10-21)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.54...0.0.55)
 

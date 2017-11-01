@@ -58,6 +58,7 @@ Versions:
 * 6.0.4_iFix002
 * 6.0.4_iFix003
 * 6.0.4_iFix004
+* 6.0.4_iFix004a
 
 Application Server:
 * tomcat

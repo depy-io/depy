@@ -1,5 +1,21 @@
 # Change Log
 
+## [0.0.57](https://github.com/depy-io/depy/tree/0.0.57) (2017-11-01)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.56...0.0.57)
+
+**Implemented enhancements:**
+
+- lobby - pin inspec version [\#445](https://github.com/depy-io/depy/issues/445)
+- CLM - inspec profile [\#444](https://github.com/depy-io/depy/issues/444)
+
+**Fixed bugs:**
+
+- CLM RM graphic artifacts are not rendered [\#443](https://github.com/depy-io/depy/issues/443)
+
+**Closed issues:**
+
+- CLM - bumping to version 6.0.4 iFix04a [\#442](https://github.com/depy-io/depy/issues/442)
+
 ## [0.0.56](https://github.com/depy-io/depy/tree/0.0.56) (2017-10-30)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.55...0.0.56)
 
@@ -357,7 +373,7 @@
 - Ansible - Bumping version to 2.3.1 [\#308](https://github.com/depy-io/depy/issues/308)
 
 ## [0.0.35](https://github.com/depy-io/depy/tree/0.0.35) (2017-05-27)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.35)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.35)
 
 **Implemented enhancements:**
 
@@ -392,8 +408,28 @@
 - Removed  system configuration attribute - not requried [\#284](https://github.com/depy-io/depy/issues/284)
 - Jenkins/jdk - feature toggle [\#281](https://github.com/depy-io/depy/issues/281)
 
+## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.33...0.0.32)
+
+**Implemented enhancements:**
+
+- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
+- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
+- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
+- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
+
+**Fixed bugs:**
+
+- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
+- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
+
+**Closed issues:**
+
+- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
+- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
+
 ## [0.0.33](https://github.com/depy-io/depy/tree/0.0.33) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.32...0.0.33)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.33)
 
 **Implemented enhancements:**
 
@@ -420,26 +456,6 @@
 - Move chef feature toggle attributes to from depy to cm/chef [\#256](https://github.com/depy-io/depy/issues/256)
 - git/Ansible - Switch git community role  [\#252](https://github.com/depy-io/depy/issues/252)
 - git - Rename component from git-server to git-client [\#251](https://github.com/depy-io/depy/issues/251)
-
-## [0.0.32](https://github.com/depy-io/depy/tree/0.0.32) (2017-05-06)
-[Full Changelog](https://github.com/depy-io/depy/compare/0.0.34...0.0.32)
-
-**Implemented enhancements:**
-
-- chef - pin chef-client version when bootstrapping [\#250](https://github.com/depy-io/depy/issues/250)
-- Chef - Policyfile continueus improvement [\#248](https://github.com/depy-io/depy/issues/248)
-- Chef - data bags [\#245](https://github.com/depy-io/depy/issues/245)
-- CLM/Chef - Policyfile [\#244](https://github.com/depy-io/depy/issues/244)
-
-**Fixed bugs:**
-
-- Jenkins/Chef - Non-latest versions of Jenkins, Incorrect Mirror Address  [\#247](https://github.com/depy-io/depy/issues/247)
-- Artifactory [\#243](https://github.com/depy-io/depy/issues/243)
-
-**Closed issues:**
-
-- Jenkins - Bumping to version 2.58 [\#249](https://github.com/depy-io/depy/issues/249)
-- Jenkins - Add Jenkins 2.54 new cli options: -http, -ssh, -remoting to jenkins\_script resource [\#246](https://github.com/depy-io/depy/issues/246)
 
 ## [0.0.34](https://github.com/depy-io/depy/tree/0.0.34) (2017-05-06)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.31...0.0.34)

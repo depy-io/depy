@@ -1,5 +1,22 @@
 # Change Log
 
+## [0.0.58](https://github.com/depy-io/depy/tree/0.0.58) (2017-11-12)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.57...0.0.58)
+
+**Implemented enhancements:**
+
+- Chef Automate [\#453](https://github.com/depy-io/depy/issues/453)
+- CHEF - Push Jobs [\#447](https://github.com/depy-io/depy/issues/447)
+- CHEF - manage/push-jobs-server/push-jobs-client addons - feature toggles [\#446](https://github.com/depy-io/depy/issues/446)
+
+**Closed issues:**
+
+- CHEF client - Bumping to version 13.6.4 [\#452](https://github.com/depy-io/depy/issues/452)
+- CHEF client - bumping to version 13.6.0 [\#451](https://github.com/depy-io/depy/issues/451)
+- CHEF server - bumping to version 12.17.5 [\#450](https://github.com/depy-io/depy/issues/450)
+- CHEF - Switching to inspec tests [\#449](https://github.com/depy-io/depy/issues/449)
+- inspec - Bumping to version 1.43.8 [\#448](https://github.com/depy-io/depy/issues/448)
+
 ## [0.0.57](https://github.com/depy-io/depy/tree/0.0.57) (2017-11-01)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.56...0.0.57)
 

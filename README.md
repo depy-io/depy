@@ -29,6 +29,9 @@ depy is a DevOps as a Service automation framework.
 * [CHEF](https://github.com/lioramilbaum/depy/blob/master/cm/chef.md "Title")
 * [Ansible](https://github.com/lioramilbaum/depy/blob/master/cm/ansible.md "Title")
 
+## Supported Hashicorp Products
+* [Packer](https://github.com/lioramilbaum/depy/blob/master/Hashicorp/packer.md "Title")
+
 # Authors
 
 depy is maintained by Liora Milbaum (liora at lmb dot co dot il).

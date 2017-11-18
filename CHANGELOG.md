@@ -1,5 +1,27 @@
 # Change Log
 
+## [0.0.59](https://github.com/depy-io/depy/tree/0.0.59) (2017-11-18)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.58...0.0.59)
+
+**Implemented enhancements:**
+
+- Deploy on top of existing infrastructure [\#466](https://github.com/depy-io/depy/issues/466)
+- Guardium application/Ansible [\#460](https://github.com/depy-io/depy/issues/460)
+
+**Fixed bugs:**
+
+- lobby - don't publish junit test result report if build fails [\#462](https://github.com/depy-io/depy/issues/462)
+- Jenkins/Ansible/MedOne - Deployment fails [\#455](https://github.com/depy-io/depy/issues/455)
+
+**Closed issues:**
+
+- Lobby/Ansible - Bumping to version 2.4.1 [\#461](https://github.com/depy-io/depy/issues/461)
+- Jenkins - Bumping to version 2.90 [\#459](https://github.com/depy-io/depy/issues/459)
+- MedOne - Refactor infrastructure spinning from Ansible to python [\#458](https://github.com/depy-io/depy/issues/458)
+- Jenkins - Bumping plugins versions [\#457](https://github.com/depy-io/depy/issues/457)
+- MedOne - Bumpint API version to 2.6 [\#456](https://github.com/depy-io/depy/issues/456)
+- Jenkins/Ansible - Bumping community \(Galaxy\) role version [\#454](https://github.com/depy-io/depy/issues/454)
+
 ## [0.0.58](https://github.com/depy-io/depy/tree/0.0.58) (2017-11-12)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.57...0.0.58)
 

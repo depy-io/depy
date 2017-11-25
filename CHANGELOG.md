@@ -1,5 +1,19 @@
 # Change Log
 
+## [0.0.60](https://github.com/depy-io/depy/tree/0.0.60) (2017-11-25)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.59...0.0.60)
+
+**Implemented enhancements:**
+
+- Jira - Add Cloud Jira support [\#471](https://github.com/depy-io/depy/issues/471)
+- HashiCorp Packer - MVP [\#467](https://github.com/depy-io/depy/issues/467)
+
+**Closed issues:**
+
+- Jira - add inspec support [\#470](https://github.com/depy-io/depy/issues/470)
+- Jenkins - Bumping to version 2.91 [\#469](https://github.com/depy-io/depy/issues/469)
+- Artifactory - Bumping to version 5.6.1 [\#468](https://github.com/depy-io/depy/issues/468)
+
 ## [0.0.59](https://github.com/depy-io/depy/tree/0.0.59) (2017-11-18)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.58...0.0.59)
 

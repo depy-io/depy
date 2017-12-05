@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.61](https://github.com/depy-io/depy/tree/0.0.61) (2017-12-05)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.60...0.0.61)
+
 ## [0.0.60](https://github.com/depy-io/depy/tree/0.0.60) (2017-11-25)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.59...0.0.60)
 

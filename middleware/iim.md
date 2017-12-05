@@ -15,6 +15,7 @@ Versions:
 * 1.8.6
 * 1.8.6.1
 * 1.8.7
+* 1.8.7.1
 
 [Knowledge Center][1]
 

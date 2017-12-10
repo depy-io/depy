@@ -13,38 +13,48 @@ Platforms:
 
 * 4.0.7* - Ubuntu 14.04
 * 5.0.0* - Ubuntu 14.04
+* 5.0.1* - Ubuntu 14.04
 * 5.0.2* - Ubuntu 14.04, SLES 12
 * 6.0.0* - Ubuntu 14.04
+* 6.0.1* - Ubuntu 14.04
 * 6.0.2* - Ubuntu 14.04
 * 6.0.3* - Ubuntu 16.04
 * 6.0.4* - Ubuntu 16.04, SLES 12
+* 6.0.5* - Ubuntu 16.04, SLES 12
 
 Versions:
 
 * 4.0.7
 * 4.0.7_iFix010
 * 4.0.7_iFix012
+* 4.0.7_iFix015
 * 5.0.0
+* 5.0.0_iFix008
 * 5.0.0_iFix009
 * 5.0.0_iFix010
+* 5.0.1_iFix011
 * 5.0.2
 * 5.0.2_iFix020
+* 5.0.2_iFix021
 * 5.0.2_iFix022
 * 5.0.2_iFix023
 * 6.0.0
 * 6.0.0_iFix009a
 * 6.0.0_iFix010
+* 6.0.0_iFix012
 * 6.0.0_iFix013
 * 6.0.1
 * 6.0.1_iFix010
 * 6.0.1_iFix011
 * 6.0.1_iFix015
+* 6.0.1_iFix016
 * 6.0.2
 * 6.0.2_iFix003
 * 6.0.2_iFix004
 * 6.0.2_iFix006
 * 6.0.2_iFix007
 * 6.0.2_iFix008
+* 6.0.2_iFix013
 * 6.0.3
 * 6.0.3_iFix001
 * 6.0.3_iFix002
@@ -53,12 +63,15 @@ Versions:
 * 6.0.3_iFix007
 * 6.0.3_iFix007a
 * 6.0.3_iFix008
+* 6.0.3_iFix009
 * 6.0.4
 * 6.0.4_iFix001
 * 6.0.4_iFix002
 * 6.0.4_iFix003
 * 6.0.4_iFix004
 * 6.0.4_iFix004a
+* 6.0.4_iFix005
+* 6.0.5
 
 Application Server:
 * tomcat

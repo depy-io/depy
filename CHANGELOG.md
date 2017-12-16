@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.0.63](https://github.com/depy-io/depy/tree/0.0.63) (2017-12-16)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.62...0.0.63)
+
+**Implemented enhancements:**
+
+- lobby - Jenkins pipeline [\#473](https://github.com/depy-io/depy/issues/473)
+
 ## [0.0.62](https://github.com/depy-io/depy/tree/0.0.62) (2017-12-14)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.61...0.0.62)
 

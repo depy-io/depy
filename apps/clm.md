@@ -49,12 +49,15 @@ Versions:
 * 6.0.1_iFix015
 * 6.0.1_iFix016
 * 6.0.2
+* 6.0.2_iFix001
 * 6.0.2_iFix003
 * 6.0.2_iFix004
 * 6.0.2_iFix006
 * 6.0.2_iFix007
 * 6.0.2_iFix008
 * 6.0.2_iFix013
+* 6.0.2_iFix014
+* 6.0.2_iFix015
 * 6.0.3
 * 6.0.3_iFix001
 * 6.0.3_iFix002
@@ -72,6 +75,7 @@ Versions:
 * 6.0.4_iFix004a
 * 6.0.4_iFix005
 * 6.0.5
+* 6.0.5_iFix001
 
 Application Server:
 * tomcat

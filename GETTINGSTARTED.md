@@ -1,6 +1,6 @@
 ## Install docker
 
-version: 17.09.0-ce-mac35 (19611)
+version: 17.09.1-ce-mac42
 
 ## Install python 2.7
 

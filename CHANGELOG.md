@@ -1,5 +1,20 @@
 # Change Log
 
+## [0.0.64](https://github.com/depy-io/depy/tree/0.0.64) (2017-12-31)
+[Full Changelog](https://github.com/depy-io/depy/compare/0.0.63...0.0.64)
+
+**Implemented enhancements:**
+
+- Jenkins parallel pipeline - integration test [\#476](https://github.com/depy-io/depy/issues/476)
+- Refactoring - Jenkins slave attributes in one json block [\#474](https://github.com/depy-io/depy/issues/474)
+
+**Closed issues:**
+
+- CLM Chef cookbook - open source [\#479](https://github.com/depy-io/depy/issues/479)
+- CLM/UCD/UCR - Bumping versions [\#478](https://github.com/depy-io/depy/issues/478)
+- Artifactory - Bumping to version 5.7.0 [\#477](https://github.com/depy-io/depy/issues/477)
+- CLM - Bumping to version 6.0.5 iFix01 [\#475](https://github.com/depy-io/depy/issues/475)
+
 ## [0.0.63](https://github.com/depy-io/depy/tree/0.0.63) (2017-12-16)
 [Full Changelog](https://github.com/depy-io/depy/compare/0.0.62...0.0.63)
 
